@@ -1,15 +1,16 @@
-Analyses your Obsidian. Specifically does the following. It produces data that shows:
+# Obsidian Analysis Tool
 
-Growth Metrics
+This tool analyses your Obsidian vault and provides insights in the following areas:
 
-a) How many nodes are increasing over time
-b) How many edges are increasing over time
-c) How many connections are being averaged over time
-d) Length of average note in the last month
-Novelty/Idea Analysis Metrics
+## Growth Metrics
+- **How many nodes are increasing over time.**
+- **How many edges are increasing over time.**
+- **How many connections are being averaged over time.**
+- **Length of average note in the last month.**
 
-a) Average correlation of ideas/content across notes
-b) Novelty of each note (Maybe normalise the log score over GPT3 to define 'novelty'?)
-c) Random obsidian quality sampler (personal tool to call a random note and see if it is useful)
-d) Recommend new topics where there aren't connections
-e) Incorporate GPT4 search made by Rob Martin
+## Novelty/Idea Analysis Metrics
+- **Average correlation of ideas/content across notes.**
+- **Novelty of each note** (Maybe normalize the log score over GPT-3 to define 'novelty'?).
+- **Random obsidian quality sampler** (personal tool to call a random note and see if it is useful).
+- **Recommend new topics where there aren't connections.**
+- **Incorporate GPT-4 search** made by Rob Martin.
